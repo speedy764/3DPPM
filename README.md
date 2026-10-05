@@ -1,2 +1,2 @@
 # 3DPPM
-§D Print Portfolio Management
+3D Print Portfolio Management
